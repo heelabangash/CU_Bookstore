@@ -15,7 +15,7 @@ open another command prompt (or detatch and create a new screen)
 
 bokeh serve insert_book.py --port 5007
 
-opern your browser to 
+open your browser to 
 
 http://localhost:5007/insert_book
 
